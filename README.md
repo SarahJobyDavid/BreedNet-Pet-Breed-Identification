@@ -77,10 +77,14 @@ Open `Image_Classification_Pets.ipynb` in Jupyter / Colab / VS Code
 
 ## 🖼️ Demo Screenshots
 
-(Upload your own screenshots here later)
 
-![Gradio Interface Cat](screenshots/gradio-demo.png)
-*Upload a photo → see top-5 predicted breeds with confidence scores*
+<p align="center">
+  <img src="screenshots/Gradio Interface Cat.png" alt="BreedNet Gradio Interface" width="800">
+</p>
+
+<p align="center">
+  <img src="screenshots/Gradio Interface Dog2.png" alt="BreedNet Gradio Interface" width="800">
+</p>
 
 ## 📂 Project Structure
 
